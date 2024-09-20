@@ -42,3 +42,7 @@ k = 5
 * Increasing K will improve image fidelity but will also increase computational time.
 * The algorithm may take longer for high-resolution images due to the larger number of pixels to process.
 
+## Contact me
+
+For any questions or suggestions, feel free to open an issue or contact me at sina.hakimzadeh.1401@gmail.com.
+
