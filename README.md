@@ -18,10 +18,11 @@ To run this project, you'll need:
 
 
 ### Example
+k = 5
 
-| original image | quantized image|   k = 5  |
-| ------------- |:-------------:| -----:|
-|![venice-greece-upsplash](https://github.com/user-attachments/assets/f1dbb70d-2737-45d8-82d3-b8d3ff803287)|![output](https://github.com/user-attachments/assets/39018050-f8a2-4b61-90a7-1cc24a5f5cd6)|  |
+| original image | quantized image| 
+| ------------- |:-------------:| 
+|![venice-greece-upsplash](https://github.com/user-attachments/assets/f1dbb70d-2737-45d8-82d3-b8d3ff803287)|![output](https://github.com/user-attachments/assets/39018050-f8a2-4b61-90a7-1cc24a5f5cd6)| 
 
 
 
