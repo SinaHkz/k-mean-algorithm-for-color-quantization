@@ -45,4 +45,4 @@ for i in range(img.width):
     for j in range(img.height):
         pixel = newImg[i][j]
         img.putpixel((i, j), (int(pixel.R), int(pixel.G), int(pixel.B)))
-img.save("ouput.jpg")
+img.save("output.jpg")

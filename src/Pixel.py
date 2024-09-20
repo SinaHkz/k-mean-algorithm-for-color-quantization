@@ -1,4 +1,4 @@
-from functions import evaluateDistance
+from src.functions import evaluateDistance
 
 
 class Pixel:
